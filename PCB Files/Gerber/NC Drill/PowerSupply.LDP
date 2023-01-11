@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: c:\net\data\arkservice\2d7c94f8-a2cd-4a45-91c4-ffd19f4e6a9d\s\e\PowerSupply.CMPcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=powersupply-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=powersupply-slotholes.txt|DrillLayers=gtl,gbl

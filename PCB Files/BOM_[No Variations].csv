@@ -1,0 +1,13 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"TP4056","Lithium Battery Charger","","TP4056-Footprint-1","CMP-88poo8h67ic0nqpqrd41-1","1"
+"Battery Holder 18650","Pcb Holder Thm 18650 Polarized","BT1","PCB-nmv0vzhkfwsbxqx6kc1g-1","CMP-40d98835f05c9f1e-4","1"
+"Würth Elektronik 860010372006","Aluminium Electrolytic Capacitor, WCAP-ATG8 Series, 100 F, 20%, 16 V, 5 mm, Radial Leaded","C1","CAP-5x11-2","CMP-7bd7b1e54b20a410-1","1"
+"Würth Elektronik 860020374012","Al Electrolytic Capacitors 470uF 16V","C2","PCB-3azp1z6rt2bm1haulf0v-1","CMP-e25928656d7f3d9e-1","1"
+"DC Jack 5.5 2.1","Conn; AV; Power; Jack; Mini; 2.0mmPinDia; RtAngle; Thru-hole; forS760, S765Plug","J1","PCB-gxnxm3n04w37egsept5y-1","CMP-da391331d91005fe-17","1"
+"Sound Sensor HRS-1B-03-GA","Pin header, single-row 90° 3-pin [JST] S3B-XH-A Pin header, single-row 90° 3-pin","S1","PCB-2zo40p8xruutr4eka9s5-1","CMP-45008c3683009ac7-6","1"
+"ServoMotor G800W305018EU","Pin header, single-row 90° 3-pin [JST] S3B-XH-A Pin header, single-row 90° 3-pin","S2","PCB-2zo40p8xruutr4eka9s5-1","CMP-45008c3683009ac7-6","1"
+"Boost Converter","Pin header, single-row 90° 3-pin [JST] S3B-XH-A Pin header, single-row 90° 3-pin","S3","PCB-2zo40p8xruutr4eka9s5-1","CMP-45008c3683009ac7-6","1"
+"E-Switch EG1218","Slide Switch, 500 V, -20 to 70 degC, 3-Pin THD, RoHS","SW1","ESWI-EG1218_V","CMP-9a5a5340a2f5459d-9","1"
+"LM7805CT/NOPB","Linear Voltage Regulators 5 Volt Reg [Texas Instruments]","U1","PCB-m217x3dwscnnq8k6ksmn-1","CMP-8a9e42f854f65559-10","1"
+"Espressif Systems ESP32-DEVKITC-32D with header","Eval Board For ESP-WROOM-32 - 38pin module with 8.4mm header","U2","PCB-v7o6mlcnvy9ltvisia1k-2","CMP-0991c5192c5ed656-39","1"

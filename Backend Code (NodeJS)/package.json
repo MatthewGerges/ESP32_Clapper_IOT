@@ -1,0 +1,22 @@
+{
+  "name": "react_login_1",
+  "version": "1.0.0",
+  "description": "version 1 of MERN app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Matthew Gerges",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.8.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "sharp": "^0.31.3"
+  }
+}
