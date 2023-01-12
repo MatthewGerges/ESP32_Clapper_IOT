@@ -1,4 +1,7 @@
 # ESP32 Clapper Light - an IOT Project
+
+ Video demo: https://www.youtube.com/watch?v=oGSny03s_TQ
+
 ![image](https://user-images.githubusercontent.com/82429124/211705138-c0987d99-0c52-44a8-a789-867db9396d84.png)
 - This project consists of an ESP32 microcontroller (programmed in C++)  that flips a light switch in 0.2 seconds upon detecting 2 claps
 - I implemented it to an IOT framework by connecting it to a MongoDB database managed by NodeJS on the backend. The ESP32 will query for changes to the database every 0.5 seconds
@@ -7,8 +10,6 @@
 - The PCB was taken from start to finish - I did the schematic design - bought the parts off of digikey after creating a BOM and had it manufactured at JLC PCB after comparing pricing and quality of other PCB manufacturers
 - Cases, enclosures and extensions were also created for this project on Fusion360 and printed on my personal Ender 3 V2 Printer (which took several iterations and rounds of prototyping)
  
- - Video demo: https://www.youtube.com/watch?v=oGSny03s_TQ
-
 ![image](https://user-images.githubusercontent.com/82429124/211705147-f5677c02-df0e-4a68-a5cd-9b68a38dd38c.png)
 
 This repo contains 4 folders: 
